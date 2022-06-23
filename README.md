@@ -11,6 +11,6 @@ types folder also contains a index.ts file which exports the card file.
 * Index.ts
 It is outside the source folder which starts the Server .
 
-## use npm intall or npm i to install all the node modules.
+## use npm install or npm i to install all the node modules.
 
 
