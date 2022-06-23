@@ -8,7 +8,7 @@ It contains a decker.ts file which have all the methods and functionality of the
 It contains a card file which define the special type for ***Cards Name*** and ***types***.
 types folder also contains a index.ts file which exports the card file.
 
-*Index.ts
+* Index.ts
 It is outside the source folder which starts the Server .
 
 ## use npm intall or npm i to install all the node modules.
