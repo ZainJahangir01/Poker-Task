@@ -95,3 +95,4 @@ const setupDeckerController = (app: express.Express) => {
 };
 
 export { setupDeckerController };
+module.exports = addNewDeck , drawCard , openDeck;
