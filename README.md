@@ -15,8 +15,8 @@ It is outside the source folder which starts the Server .
 It contains decker.spec.ts test script are defined in the package.json.
 It includes testing for the methods of api with ***MOCHA*** and ***CHAI***.
 
-* There is no Seperate Route folder for the routing you can find it 
-in the last of decker.ts filr using a seperate folder for routes is a better practice i was new to the environment so apoligies
+* There is no Seperate ***Route folder*** for the routing you can find it 
+in the last of decker.ts file using a seperate folder for routes is a better practice since i was new to the environment so apoligies
 if you find any difficulty.
 
 ## use npm install or npm i to install all the node modules.
